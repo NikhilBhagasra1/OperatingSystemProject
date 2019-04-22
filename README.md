@@ -1,5 +1,6 @@
 # OperatingSystemProject
 Multithreaded banking application
+
 4. Consider a multithreaded banking application. The main process receives requests to tranfer
 money from one account to the other, and each request is handled by a separate worker thread
 in the application. All threads access shared data of all user bank accounts. Bank accounts are
